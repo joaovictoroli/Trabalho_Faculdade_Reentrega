@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Trabalho_Faculdade_Reentrega/1.0.0": {
+        "runtime": {
+          "Trabalho_Faculdade_Reentrega.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabalho_Faculdade_Reentrega/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

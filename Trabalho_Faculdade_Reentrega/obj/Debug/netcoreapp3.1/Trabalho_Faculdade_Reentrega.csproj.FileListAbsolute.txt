@@ -1,0 +1,13 @@
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\bin\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.exe
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\bin\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.deps.json
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\bin\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.runtimeconfig.json
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\bin\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.runtimeconfig.dev.json
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\bin\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.dll
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\bin\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.pdb
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\obj\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.csprojAssemblyReference.cache
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\obj\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.AssemblyInfoInputs.cache
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\obj\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.AssemblyInfo.cs
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\obj\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.csproj.CoreCompileInputs.cache
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\obj\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.dll
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\obj\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.pdb
+C:\Users\Joao\source\repos\Trabalho_Faculdade_Reentrega\Trabalho_Faculdade_Reentrega\obj\Debug\netcoreapp3.1\Trabalho_Faculdade_Reentrega.genruntimeconfig.cache
